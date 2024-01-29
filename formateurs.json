@@ -1,0 +1,26 @@
+[
+    {
+      "matricule": "4A",
+      "nom": "youness",
+      "date naissance": "31/08/2001",
+      "date embuche": "23/07/2020",
+      "salaire base": 1000,
+      "heur sup": 12
+    },
+    {
+      "matricule": "22",
+      "nom": "ahmed",
+      "date naissance": "02/04/1999",
+      "date embuche": "fs",
+      "salaire base": 5500,
+      "heur sup": 11
+    },
+    {
+      "matricule": "31",
+      "nom": "mohamed",
+      "date naissance": "13/05/2000",
+      "date embuche": "25/09/2020",
+      "salaire base": 5000,
+      "heur sup": 11
+    }
+  ]
